@@ -1,4 +1,4 @@
-https://snack.expo.io/@cleverton/-waffle
+https://snack.expo.io/waffle
 
                 
 
